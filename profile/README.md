@@ -151,6 +151,7 @@ IDam은 이 문제를 해결하기 위해 AI 기반 태깅 추천 + 실시간 �
       <td>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
         <img src="https://img.shields.io/badge/Ngrok-1F1E37?style=flat&logo=ngrok&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Ollama-1F1E37?style=flat&logo=ollama&logoColor=white"/>
       </td>
     </tr>
     <tr>
