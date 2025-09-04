@@ -118,10 +118,47 @@ IDam은 이 문제를 해결하기 위해 AI 기반 태깅 추천 + 실시간 �
   </thead>
   <tbody>
     <tr>
-      <td>프론트엔드</td>
+      <td>Frontend</td>
       <td>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-5b5b5b?style=flat&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vercel-5b5b5b?style=flat&logo=vercel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FramerMotion-0055FF?style=flat&logo=framer&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Zustand-764ABC?style=flat&logo=zustand&logoColor=white"/>
+        <img src="https://img.shields.io/badge/STOMP.js-FF6F00?style=flat&logo=stomp.js&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td>Backend</td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Security_+_JWT-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_WebSocket-6DB33F?style=flat&logo=spring&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td>DB & Storage</td>
+      <td>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazons3&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td>AI Server</td>
+      <td>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Ngrok-1F1E37?style=flat&logo=ngrok&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td>Infra</td>
+      <td>
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
       </td>
     </tr>
   </tbody>
